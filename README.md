@@ -22,4 +22,5 @@ use the following commands in the base directory to build the iso
 
 Creating a iso file named live-image-amd64.hybrid.iso of about 346MB.
 
-Optional configuration files are placed in opt/
+### Remastering
+Optional configuration files are placed in opt/ just copy them in config/proper/subfolder before running the build command.
