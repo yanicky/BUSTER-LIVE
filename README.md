@@ -1,5 +1,5 @@
 # BUSTER-LIVE
-Auto configuration files for creating Debian(Buster) Live-Build Bootable System
+Auto configuration files for creating Debian(Buster) [Live](https://live-team.pages.debian.net/live-manual/html/live-manual/about-project.en.html#76) Bootable System
 
 ### Requirement
 * git
