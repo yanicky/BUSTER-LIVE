@@ -9,14 +9,14 @@ Auto configuration files for creating Debian(Buster) [Live](https://live-team.pa
 
 ``` sudo apt-get install git live-build;```
 
-### Installation
+### Installation methods
 
-``` git clone https://github.com/yanicky/BUSTER-LIVE;```
+1. (recommended) ``` git clone https://github.com/yanicky/BUSTER-LIVE; cd BUSTER-LIVE;```
+``` ```
+2. (other) ``` mkdir BUSTER-LIVE; cd BUSTER-LIVE; lb config --config=https://github.com/yanicky/BUSTER-LIVE```
 
 ### Building the bootable ISO image
 use the following commands in the base directory to build the iso
-
-``` cd BUSTER-LIVE;```
 
 ```sh auto/config; sudo lb clean; sudo lb build;```
 
